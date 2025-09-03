@@ -10,7 +10,7 @@ export default function HeroSection() {
                 <div className="max-w-7xl mx-auto flex items-center justify-between">
                     <Link href="/">
                         <h2 className="text-3xl font-extrabold text-yellow-400 tracking-wide hover:text-yellow-600 transition-colors duration-200">
-                            PokéIndex
+                            PokéIndex⚡
                         </h2>
                     </Link>
                     <Button variant="outline" className=" rounded-xl text-sm border-yellow-300 hover:bg-yellow-50 transition-colors duration-200">

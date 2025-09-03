@@ -1,36 +1,49 @@
-# PokéIndex
+# PokéIndex⚡
 
-A modern Pokémon index built with **Next.js**, **Tailwind CSS**, and **shadcn/ui** components.
-Browse, search, and explore Pokémon with detailed stats, abilities, types, and evolution chains.
-
----
-
-## 🚀 Features
-
-- 🔍 Search Pokémon by name
-- 📊 Detailed stats: HP, Attack, Defense, Speed, etc.
-- 🌱 Type badges & evolution chains
-- 🎨 Modern UI with Tailwind + shadcn
-- 📱 Fully responsive design
+Welcome to **PokéIndex**, your ultimate digital companion for exploring, discovering, and learning about every Pokémon in existence. From classic favorites to legendary creatures, this application provides detailed information about abilities, stats, and evolutions in a sleek, modern interface.
 
 ---
 
-## 🛠️ Tech Stack
+[Live Link](https://poke-index-chi.vercel.app/)
+---
+
+##  Core Features
+
+- **Discover & Search**: Browse a vast collection of Pokémon or use the intuitive search bar to find your favorite instantly.
+- **Comprehensive Data**: Access detailed information for each Pokémon, including types, height, weight, and official Pokédex entries.
+- **In-Depth Stats**: Analyze base stats (HP, Attack, Defense, Special Attack, Special Defense, Speed) in a clean format.
+- **Evolution Chain**: Visualize the complete evolution path from base form to final stage.
+- **Modern & Responsive UI**: A dark-themed, mobile-friendly design that adapts beautifully across devices.
+
+---
+
+##  Screenshots
+
+### Landing Page
+![Landing Page](public\intro.png)
+
+### Pokémon Grid & Search
+![Pokémon Grid](public\Search.png)
+
+### Detailed View
+![Pokémon Details](public\Pokemon.png)
+
+---
+
+##  Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)
+- **UI**: [shadcn/ui](https://ui.shadcn.com/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
-- **Icons**: [lucide-react](https://lucide.dev/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **API**: [PokéAPI](https://pokeapi.co/)
+- **Data Source**: [PokéAPI v2](https://pokeapi.co/)
+- **Deployment**: [Vercel](https://vercel.com/)
 
 ---
 
-## 📦 Installation
+## Getting Started
 
-Clone the repo and install dependencies:
+Follow these steps to run PokéIndex locally:
 
+### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pokeindex.git
-cd pokeindex
-npm install
+git clone https://github.com/Vijaykr35/pokeIndex.git
