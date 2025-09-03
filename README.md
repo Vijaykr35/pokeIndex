@@ -20,13 +20,13 @@ Welcome to **PokéIndex**, your ultimate digital companion for exploring, discov
 ##  Screenshots
 
 ### Landing Page
-![Landing Page](public\intro.png)
+![Landing Page](public/intro.png)
 
 ### Pokémon Grid & Search
-![Pokémon Grid](public\Search.png)
+![Pokémon Grid](public/Search.png)
 
 ### Detailed View
-![Pokémon Details](public\Pokemon.png)
+![Pokémon Details](public/Pokemon.png)
 
 ---
 
